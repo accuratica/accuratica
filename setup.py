@@ -1,10 +1,6 @@
-# -*- coding: utf-8 -*-
-# Learn more: https://github.com/accuratica/setup.py
-
 from setuptools import setup, find_packages
 
-
-with open('README') as f:
+with open('README.md') as f:
     readme = f.read()
 
 with open('LICENSE') as f:
@@ -12,12 +8,12 @@ with open('LICENSE') as f:
 
 setup(
     name='accuratica',
-    version='0.0.1',
+    version='1.0.0',
     description='Sample package for Accuratica Python projects',
     long_description=readme,
     author='Moshe Mendel',
     author_email='mm@accuratica.com',
-    url='https://github.com/kennethreitz/samplemod',
+    url='https://github.com/accuratica/accuratica',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )
