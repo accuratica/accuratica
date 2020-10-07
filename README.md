@@ -1,8 +1,8 @@
 ## accuratica
 
 [![Python: 3.9](https://img.shields.io/badge/Python-3.9-blue.svg)](#)
-[![Python: 3.8](https://img.shields.io/badge/Python-3.8-blue.svg)](#)
-[![Python: 3.7](https://img.shields.io/badge/Python-3.7-blue.svg)](#)
+[![Python: 3.8](https://img.shields.io/badge/Python-3.8-green.svg)](#)
+[![Python: 3.7](https://img.shields.io/badge/Python-3.7-yellow.svg)](#)
 
 
 ### Main Features
