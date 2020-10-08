@@ -1,12 +1,13 @@
-![Accuratica logo](https://accuratica.com/accuratica.jpg)
-
 ## accuratica
--------------
 
 [![Python: 3.9](https://img.shields.io/badge/Python-3.9-blue.svg)](#) ¨ 
 [![Python: 3.8](https://img.shields.io/badge/Python-3.8-green.svg)](#) ¨ 
 [![Python: 3.7](https://img.shields.io/badge/Python-3.7-yellow.svg)](#) ¨ 
 [![license: MIT](https://img.shields.io/badge/license-MIT-orange.svg)](https://opensource.org/licenses/MIT)
+
+### Overview
+
+This project is a template for new Python libraries.
 
 
 ### Main Features
