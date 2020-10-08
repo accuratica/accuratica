@@ -1,4 +1,4 @@
-.. image:: https://accuratica.com/accuratica.png
+.. image:: https://accuratica.com/accuratica.jpg
     :height: 512px
     :width: 512px
     :scale: 60 %
