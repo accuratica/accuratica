@@ -32,7 +32,15 @@ This project is a template for new Python libraries.
 * ...
 
 
-### Installation
+### Install
+
+```
+```
+
+### Usage
+
+```
+```
 
 
 ### Project Dependencies
