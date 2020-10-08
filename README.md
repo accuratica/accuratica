@@ -1,3 +1,10 @@
+.. image:: https://accuratica.com/accuratica.png
+    :height: 512px
+    :width: 512px
+    :scale: 60 %
+    :alt: Accuratica logo
+    :align: center
+
 ## accuratica
 
 [![Python: 3.9](https://img.shields.io/badge/Python-3.9-blue.svg)](#) ¨ 
